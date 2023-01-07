@@ -2,6 +2,9 @@
 
 Interact with Roboflow containers via Flask server routes.
 
+## Video Demo
+[Watch a 4 minute loom video here!](https://www.loom.com/share/d50f9dfa6ad9404ab9a02b174e03c61f)
+
 ## Installation
 
 Install required packages with `pip3 install -r requirements.txt`.
